@@ -57,7 +57,7 @@ public class Ex13 {
 		System.out.println("=> OX 점수의 합=?");
 		System.out.println(sum);
 		
-		br.close();		
+//		br.close();		
 	}
 	
 }
